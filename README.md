@@ -1,1 +1,2 @@
-AuthTest
+# androidBasicAuthRequest
+Basic Auth Request sample
